@@ -41,7 +41,7 @@ Open your browser and navigate to `http://localhost:5000` to use the word counte
 
 The word counter is also deployed and accessible online. Visit the following link to use the word counter without any setup:
 
-[Word Counter Deployment](https://raj-learns.github.io/word-count/)
+[Word Counter Deployment](https://raj-learns.github.io/word-count-/)
 
 ## Project Structure
 
